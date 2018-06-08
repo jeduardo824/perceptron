@@ -3,9 +3,9 @@ Implementação de um Perceptron com três entradas como atividade extra na mat�
 
 O conjunto de treinamento por padrao deve ser carregado de um arquivo e contem 30 amostras. Ele obedece a formatação:   
 
-%f "1 espaço" %f "1 espaço" %f "1 espaço" %f   
-%f "1 espaço" %f "1 espaço" %f "1 espaço" %f   
-%f "1 espaço" %f "1 espaço" %f "1 espaço" %f   
+%f "espaço" %f "espaço" %f "espaço" %f   
+%f "espaço" %f "espaço" %f "espaço" %f   
+%f "espaço" %f "espaço" %f "espaço" %f   
 
 Ex:  
     
