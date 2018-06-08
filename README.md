@@ -3,9 +3,9 @@ Implementação de um Perceptron com três entradas como atividade extra na mat�
 
 O conjunto de treinamento por padrao deve ser carregado de um arquivo e contem 30 amostras. Ele obedece a seguinte formatação:
 
--1.0000 2.4542 5.6734 -1.0000\n
-4.2312 2.4322 1.4523 1.0000\n
-5.8934 -5.8982 3.9821 1.0000\n
+-1.0000 2.4542 5.6734 -1.0000  
+4.2312 2.4322 1.4523 1.0000  
+5.8934 -5.8982 3.9821 1.0000  
 
 ...
 
